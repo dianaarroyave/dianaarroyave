@@ -1,7 +1,8 @@
 ### Hi I am Diana Arroyave 👋
 
 <!--
-**dianaarroyave/dianaarroyave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dianaarroyave/dianaarroyave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
 
 Passionate about new technologies, with the ability to integrate customer needs with Full Stack development (JavaScript, NodeJS, HTML5, CSS, React, Git, GitHub, Express, MySQL, Sequelize, APIs)
 
